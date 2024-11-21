@@ -1,0 +1,4 @@
+ hotfix/hotfix-name
+  hotfix/urgent-fix
+  master
+  release/release-name
